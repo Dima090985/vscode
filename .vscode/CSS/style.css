@@ -14,6 +14,9 @@ h1{
 .block__item {
 }
 .block__eb {
+	color: aqua;
+	margin: 20px;
+	padding: 200px;
 }
 .red{
 	
